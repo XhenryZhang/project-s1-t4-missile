@@ -1,5 +1,7 @@
 # Missile Defense
 
+Check it out at: https://missile-defense-01.herokuapp.com/gamepage?name=fasdfasdf
+
 ![Game picture](https://github.com/ucsb-cs48-s20/project-s1-t4-missile/blob/master/missiledefense.png)
 
 Realtime multiplayer missile defense game, inspired by Atari's 1980 title Missile Command!

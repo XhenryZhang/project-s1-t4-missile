@@ -1,6 +1,6 @@
 # Missile Defense
 
-Check it out at: https://missile-defense-01.herokuapp.com/gamepage?name=fasdfasdf
+Check it out at: https://missile-defense-01.herokuapp.com/
 
 ![Game picture](https://github.com/ucsb-cs48-s20/project-s1-t4-missile/blob/master/missiledefense.png)
 
